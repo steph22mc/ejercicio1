@@ -1,3 +1,6 @@
 Instrucciones
 
-Esta es otra modificacion
+### Ejercicio 1
+- Aprenderas muchas cosas
+- Tonto
+- Ñe
